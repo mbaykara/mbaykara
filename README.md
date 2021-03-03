@@ -1,6 +1,6 @@
 ### Hi there 👋
+### Here is Mehmet Ali
+![](https://komarev.com/ghpvc/?username=mbaykara&color=dc143c)
 
-- 📫 How to reach me: mehmetalibaykara@gmail.com or @baykara__ 
-```markdown
-![Visitor Count](https://profile-counter.glitch.me/{mbaykara}/count.svg)
-```
+![](https://github-readme-stats.vercel.app/api?username=mbaykara&show_icons=true&hide_border=true)
+
